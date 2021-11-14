@@ -1,6 +1,8 @@
 # House-Price-Prediction
-Datasets download from kaggle
-Fixed the missing values in Dataset's.
-techinque to clean and built the data for deployment the model using exploratory data analysis.
-using Multiple Linear Regression Machine learning Model.
-The goal of this project in the future providing customer satisfied for known actual rate of the house.
+- Datasets download from kaggle
+- Fixed the missing values in Dataset's.
+- for better r2_score and P-values using exploratory data analysis for beter prediction the data,
+- divided the data into 70% for train and 30% for the test.
+- the dependent sample is prince and others sample is independent.
+- using Multiple Linear Regression Machine learning Model.
+- The goal of this project in the future providing customer best predicted result.
